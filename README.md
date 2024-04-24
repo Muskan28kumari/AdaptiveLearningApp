@@ -1,10 +1,8 @@
 # AdaptiveLearningApp
 
 
-
-
 # Idea of the app
-<img width="200" height="300" alt="Idea_of_the_app" src="https://github.com/Muskan28kumari/AdaptiveLearningApp/assets/104787786/2a95e336-7a23-40ab-ac64-084812da4ed4">
+<img width="400" height="300" alt="Idea_of_the_app" src="https://github.com/Muskan28kumari/AdaptiveLearningApp/assets/104787786/2a95e336-7a23-40ab-ac64-084812da4ed4">
 
 # Authentication
 <img width="200" height="300" alt="authentication" src="https://github.com/Muskan28kumari/AdaptiveLearningApp/assets/104787786/88f6569f-ec22-4880-b08c-63fba4300c5a">
